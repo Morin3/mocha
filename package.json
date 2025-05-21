@@ -115,7 +115,7 @@
     "remark": "^14.0.2",
     "remark-github": "^11.2.2",
     "remark-inline-links": "^6.0.1",
-    "rewiremock": "^3.14.3",
+    "rewiremock": "^3.14.6",
     "rimraf": "^3.0.2",
     "rollup": "^2.70.1",
     "rollup-plugin-node-globals": "^1.4.0",
